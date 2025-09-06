@@ -3,9 +3,6 @@
 > **Hackathon Submission | AI Engineer Fresher**  
 > Automates support email triaging, prioritization (urgent + negative first), AI response drafting (GPT + RAG), and dashboard analytics — using real sample emails (login, billing, downtime, API). Built with Python + Flask + React. Runs locally. Judges will love it! 🚀📧
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
-
----
 
 ## 🚀 Features
 
